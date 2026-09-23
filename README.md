@@ -3,6 +3,16 @@
   <head>
     <meta charset="UTF-8">
     <title>Recipes</title>
+     <style>
+        /* Paste all the CSS code from Option 1 right here! */
+        body {
+            font-family: sans-serif;
+            background-color: #fcf8f2;
+        }
+        h1 {
+            color: #b13434;
+        }
+    </style>
     <link rel="stylesheet" href="css.styles.css">
   </head>
   <body>
