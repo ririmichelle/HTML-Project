@@ -3,14 +3,10 @@
   <head>
     <meta charset="UTF-8">
     <title>Recipes</title>
-    <link rel="stylesheet" href="css.styles.css">
   </head>
   <body>
   <!--Main Title-->
   <h1>Chocolate Fudge</h1>
-    h1 {
-    color: blue;
-}
   <img src="chocolate-fudge.jpg" alt="a plate of rich chocolate fudge square">
   <h2>Description</h2>
   <p>Chocolate fudge is a rich, sweet dessert made from sugar, butter, and milk or cream. It melts in your mouth and offers a deep, chocolate flavor.</p>
