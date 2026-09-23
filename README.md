@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Recipes</title>
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8">
+    <title>Recipes</title>
+  </head>
+  <body>
   <!--Main Title-->
   <h1>Chocolate Fudge</h1>
   <img src="chocolate-fudge.jpg" alt="a plate of rich chocolate fudge square">
