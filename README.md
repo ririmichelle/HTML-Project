@@ -3,6 +3,12 @@
   <head>
     <meta charset="UTF-8">
     <title>Recipes</title>
+    <style>
+        .highlight-word {
+            color: #d93838;      /* Changes the text color (e.g., tomato red) */
+            font-weight: bold;   /* Keeps the text bold as well */
+        }
+    </style>
   </head>
   <body>
   <!--Main Title-->
