@@ -3,51 +3,9 @@
   <head>
     <meta charset="UTF-8">
     <title>Recipes</title>
-    /* General page styling */
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #fcf8f2; /* Soft cream background */
-    color: #333333;            /* Dark gray text for easy reading */
-    line-height: 1.6;
-    padding: 20px;
-    max-width: 800px;          /* Centers the content on large screens */
-    margin: 0 auto;            /* Centers the page layout */
-}
-
-/* Headings */
-h1 {
-    color: #b13434;            /* Warm recipe-themed red */
-    border-bottom: 2px solid #b13434;
-    padding-bottom: 10px;
-    text-align: center;
-}
-
-h2 {
-    color: #d97706;            /* Warm orange for section headers */
-    margin-top: 30px;
-}
-
-/* Links */
-a {
-    color: #2563eb;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-a:hover {
-    text-decoration: underline; /* Underlines when hovered */
-}
-
-/* Lists (Ingredients and Steps) */
-ul, ol {
-    background-color: #ffffff;  /* White boxes for lists */
-    padding: 20px 40px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05); /* Subtle shadow */
-}
-
-li {
-    margin-bottom: 10px;        /* Spacing between list items */
+    .highlight {
+    font-weight: bold;       /* Makes the words bold */
+    color: #b13434;          /* Changes the color to a warm recipe red */
 }
     <link rel="stylesheet" href="css.styles.css">
   </head>
