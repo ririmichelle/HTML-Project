@@ -3,6 +3,18 @@
   <head>
     <meta charset="UTF-8">
     <title>Recipes</title>
+    # Heading
+
+**Bold text**
+
+*Italic text*
+
+> A quote
+
+- List item
+- Another item
+
+![Image](image-url)
   </head>
   <body>
   <!--Main Title-->
